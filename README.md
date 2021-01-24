@@ -5,12 +5,15 @@ Do not edit/leak the source code since its fixed and only works with the skypixe
 
 ## Commands
 /Skypixel - Shows a UI of stats and the top leading board
+
 /Skypixeladmin - Creates/removes the leaderboard (floating text)
 
 ## Functions
 /Skypixel (Doesn't have a function)
+
 /Skypixeladmin setup {lumberjack/farmer/exacavation/miner/killer/combat/builder/consumer/
 archer/lawnmoner
+
 /Skypixel remove (to remove nearly floating text)
 
 ## NOTE
