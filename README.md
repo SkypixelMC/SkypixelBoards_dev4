@@ -12,7 +12,7 @@ Do not edit/leak the source code since its fixed and only works with the skypixe
 /Skypixel (Doesn't have a function)
 
 /Skypixeladmin setup {lumberjack/farmer/exacavation/miner/killer/combat/builder/consumer/
-archer/lawnmoner
+archer/lawnmoner}
 
 /Skypixel remove (to remove nearly floating text)
 
