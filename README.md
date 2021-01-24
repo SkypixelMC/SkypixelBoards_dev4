@@ -1,6 +1,5 @@
 # SkypixelBoards
-A simple LeaderBoards plugin for PocketMine-MP.
-(Coded by Blaz3rd, some source code by mikeygio10)
+A simple LeaderBoards plugin for PocketMine-MP (Coded by Blaz3rd, some source code by mikeygio10).
 
 Do not edit/leak the source code since its fixed and only works with the skypixel plugins.
 
@@ -14,6 +13,6 @@ Do not edit/leak the source code since its fixed and only works with the skypixe
 archer/lawnmoner
 /Skypixel remove (to remove nearly floating text)
 
-##NOTE
+## NOTE
 The plugin has been updated to an older version (1.16.100) due to the multi-protocol
 were currently having.
