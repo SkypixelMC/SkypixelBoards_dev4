@@ -17,5 +17,4 @@ archer/lawnmoner}
 /Skypixel remove (to remove nearly floating text)
 
 ## NOTE
-The plugin has been updated to an older version (1.16.100) due to the multi-protocol
-were currently having.
+Now supports 1.16.210, older versions will no longer be compatible.
