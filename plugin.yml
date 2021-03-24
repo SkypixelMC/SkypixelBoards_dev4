@@ -1,5 +1,15 @@
+---
 name: SkypixelBoards
-api: 3.18.0
-main: Blaz3rd\Skypixel\Main
+author: Blazerd
 version: 0.0.2
-author: Blaz3rd
+description: Displays a Skypixel version of LeaderBoards.
+main: Blaz3rd\Skypixel\Main
+api:
+- 3.13.0
+mcpe-protocol:
+- 361
+- 388
+- 389
+- 390
+- 407
+- 428
